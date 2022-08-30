@@ -16,7 +16,7 @@
 - The one main difference between these models is which parts of the framework are managed by the cloud provider or the user.
 - Cloud is developed in three models that differ in the use of the cloud, such as fully cloud, hybrid, and on-premise.
  ## Quotes
-* The overlapping of trust boundaries and the increased exposure of data can provide malicious cloud consumers (human and automated) with greater opportunities to attack IT resources and steal or damage business data.
+* "The overlapping of trust boundaries and the increased exposure of data can provide malicious cloud consumers (human and automated) with greater opportunities to attack IT resources and steal or damage business data".
 * “Cloud computing is the on-demand delivery of computing power, database storage, applications, and other IT resources through a cloud services platform via the Internet with pay-as-you-go pricing. Whether you are running applications that share photos to millions of mobile users or you’re supporting the critical operations of your business, a cloud services platform provides rapid access to flexible and low-cost IT resources”, aws-overview or amazon definition of cloud computing.
 ## New Facts I didn’t know before.
 - From an amazon perspective, the cloud allows businesses to trade high costs of data centers for manageable costs of the cloud. 
@@ -24,3 +24,4 @@
 - I didn’t know email is a type of software as a service.
 - A 64-bit CPU can theoretically use a maximum of 16.8 million TB of memory.
 - The difference between 32 and 64bit processors is in the amount of information the CPU can process.
+- cloud useage change with the time of day, as the afternoon is the highest.
